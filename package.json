@@ -1,0 +1,23 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "A modular Discord bot template with slash commands",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "template"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  }
+}
