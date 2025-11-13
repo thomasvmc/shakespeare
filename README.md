@@ -16,10 +16,10 @@ Shakespeare is a bot that can refine your messages with or without a tone. You c
 5. Clone the repo.
 7. Install node if not installed
 9. Open the project with visual studio code or notepad + command prompt
-10. Update the tokens and id
-$env:DISCORD_BOT_TOKEN="discordtoken"
-$env:DISCORD_CLIENT_ID="discordbotid"
-$env:GEMINI_API_TOKEN="geminiapitoken"
+10. Update the tokens and id run but replace the discordtoken, discordbotid and geminiapitoken with the actual tokens and id <br/>
+$env:DISCORD_BOT_TOKEN="discordtoken" <br/>
+$env:DISCORD_CLIENT_ID="discordbotid" <br/>
+$env:GEMINI_API_TOKEN="geminiapitoken" <br/>
 12. Run 'npm i' and then 'npm start'
 
 
