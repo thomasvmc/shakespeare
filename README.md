@@ -5,7 +5,7 @@ Shakespeare is a bot that can refine your messages with a tone or without. You c
 
 -----------------------------------------------------------------------------------------------------------
 
-# Installation instructions:
+# Installation instructions
 
 1. Clone the repo.
 2. Install node if not installed.
