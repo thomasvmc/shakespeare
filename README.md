@@ -1,9 +1,10 @@
 # Shakespeare
 
-Shakespeare is a bot that can refine your messages with a tone or without. You can also just chat with him.
-
+Shakespeare is a bot that can refine your messages with or without a tone. You can also just chat with him.
 
 -----------------------------------------------------------------------------------------------------------
+
+
 
 # Installation instructions
 
@@ -15,6 +16,7 @@ Shakespeare is a bot that can refine your messages with a tone or without. You c
 -----------------------------------------------------------------------------------------------------------
 
 
+
 # Commands
 
 /help - shows a list of all commands and functions <br/>
@@ -22,6 +24,7 @@ Shakespeare is a bot that can refine your messages with a tone or without. You c
 /s message - chat with shakespeare
 
 -----------------------------------------------------------------------------------------------------------
+
 
 
 #Storage
