@@ -27,6 +27,6 @@ Shakespeare is a bot that can refine your messages with or without a tone. You c
 
 
 
-#Storage
+# Storage
 
 The bot stores chat history per discord channel in the chat-history.json file
