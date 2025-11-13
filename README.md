@@ -17,9 +17,9 @@ Shakespeare is a bot that can refine your messages with a tone or without. You c
 
 # Commands
 
-/help - shows a list of all commands and functions /br
-/refine message tone? - refines your message with an optional tone. /br
-/s message - chat with shakespeare /br
+/help - shows a list of all commands and functions <br/>
+/refine message tone? - refines your message with an optional tone. <br/>
+/s message - chat with shakespeare
 
 -----------------------------------------------------------------------------------------------------------
 
